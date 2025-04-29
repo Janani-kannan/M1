@@ -30,9 +30,6 @@ int main(){
 ![image](https://github.com/user-attachments/assets/a453918c-8176-4484-976c-80adb4234adf)
 
 
-
-
-
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
 
@@ -67,13 +64,9 @@ int main(){
     }
 }
 ```
-
 # OUTPUT:
 
-
 ![image](https://github.com/user-attachments/assets/bdc5b680-a9d4-4a7b-80eb-a34b7e6f6c03)
-
-
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -116,9 +109,6 @@ int main(){
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/9c2ee78c-33bf-4435-85a0-f617bf4bc23a)
-
-
-
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -167,9 +157,7 @@ int main(){
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ec1762fb-e056-4562-b010-faf8881d4b60)
-
-	
+![image](https://github.com/user-attachments/assets/ec1762fb-e056-4562-b010-faf8881d4b60)	
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -209,7 +197,6 @@ int main()
     return 0;
 }
 ```
-
 
 ## OUTPUT:
 
